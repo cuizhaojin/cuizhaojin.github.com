@@ -1,2 +1,2 @@
-# cuizhaojin.github.com
-www.inditie.com
+cuizhaojin.github.com
+#www.inditie.com
